@@ -1,6 +1,9 @@
-# phpmiller
 
 
+
+
+
+# phpmiller Code with html Design Body
 ```php
 <?php
 use PHPMailer\PHPMailer\PHPMailer;
@@ -97,3 +100,20 @@ try {
 }
 ?>
 ```
+
+🎥 **Watch the Tutorial Video on YouTube:**  
+
+[![Watch the video on YouTube](https://img.youtube.com/vi/rDF7ixOAJ1o/hqdefault.jpg)](https://www.youtube.com/watch?v=rDF7ixOAJ1o "PHP Mail Function Tutorial")
+
+
+Click the image above to watch the video!
+
+
+### About the Tutorial  
+In this video, you will learn:  
+- Introduction to PHP Mail function  
+- How to use SMTP server  
+- Ensuring secure and reliable email delivery  
+- Live demo with step-by-step explanations  
+
+🔗 Check out the video and improve your PHP skills today!
